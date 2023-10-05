@@ -8,7 +8,7 @@ class Developer {\
 &nbsp; &nbsp; &nbsp; &nbsp; this.technologies = ['React.js', 'CSS/HTML', 'Python', 'Java', 'C', 'C#'];\
 &nbsp; &nbsp; &nbsp; &nbsp; this.wantsToLearnMore = true;\
 &nbsp; &nbsp;}\
-};\
+};
 
 
 <!--
