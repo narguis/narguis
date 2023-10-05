@@ -1,14 +1,14 @@
-### <Hello, World!/>
+### <Hello, World!/>\
 
-class Developer {
-  constructor(name, age, stack, technologies, wantsToLearnMore) {
-    this.name = 'Narguis';
-    this.age = 19;
-    this.stack = 'Fullstack Developer';
-    this.technologies = ['React.js', 'CSS/HTML', 'Python', 'Java', 'C', 'C#'];
-    this.wantsToLearnMore = true;
-  }
-};
+class Developer {\
+  constructor(name, age, stack, technologies, wantsToLearnMore) {\
+    this.name = 'Narguis';\
+    this.age = 19;\
+    this.stack = 'Fullstack Developer';\
+    this.technologies = ['React.js', 'CSS/HTML', 'Python', 'Java', 'C', 'C#'];\
+    this.wantsToLearnMore = true;\
+  }\
+};\
 
 <!--
 **narguis/narguis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
