@@ -1,13 +1,13 @@
-### <Hello, World!/>\
+### <Hello, World!/>
 
 class Developer {\
-  constructor(name, age, stack, technologies, wantsToLearnMore) {\
-    this.name = 'Narguis';\
-    this.age = 19;\
-    this.stack = 'Fullstack Developer';\
-    this.technologies = ['React.js', 'CSS/HTML', 'Python', 'Java', 'C', 'C#'];\
-    this.wantsToLearnMore = true;\
-  }\
+__constructor(name, age, stack, technologies, wantsToLearnMore) {\
+____this.name = 'Narguis';\
+____this.age = 19;\
+____this.stack = 'Fullstack Developer';\
+____this.technologies = ['React.js', 'CSS/HTML', 'Python', 'Java', 'C', 'C#'];\
+____this.wantsToLearnMore = true;\
+__}\
 };\
 
 <!--
