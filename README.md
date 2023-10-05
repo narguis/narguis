@@ -10,6 +10,7 @@ class Developer {\
 &nbsp; &nbsp;}\
 };
 
+I'm still learning, but i hope you can find something interesting on my profile!
 
 <!--
 **narguis/narguis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
