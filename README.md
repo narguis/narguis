@@ -1,7 +1,6 @@
 ### <Hello, World!/>
 
-<pre>
-  class Developer {\
+class Developer {\
   constructor(name, age, stack, technologies, wantsToLearnMore) {\
     this.name = 'Narguis';\
     this.age = 19;\
@@ -10,7 +9,6 @@
     this.wantsToLearnMore = true;\
   }\
 };\
-</pre>
 
 
 <!--
