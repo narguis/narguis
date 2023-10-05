@@ -1,7 +1,7 @@
 ### <Hello, World!/>
 
 class Developer {\
-  constructor(name, age, stack, technologies, wantsToLearnMore) {\
+  constructor(name, age, stack, technologies, wantsToLearnMore) {\
     this.name = 'Narguis';\
     this.age = 19;\
     this.stack = 'Fullstack Developer';\
