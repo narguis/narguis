@@ -1,9 +1,8 @@
 ### <Hello, World!/>
 
 class Developer {\
-&nbsp; &nbsp; constructor(name, age, stack, technologies, wantsToLearnMore) {\
+&nbsp; &nbsp; constructor(name, stack, technologies, wantsToLearnMore) {\
 &nbsp; &nbsp; &nbsp; &nbsp; this.name = 'Narguis';\
-&nbsp; &nbsp; &nbsp; &nbsp; this.age = 19;\
 &nbsp; &nbsp; &nbsp; &nbsp; this.stack = 'Fullstack Developer';\
 &nbsp; &nbsp; &nbsp; &nbsp; this.technologies = ['React.js', 'CSS/HTML', 'Python', 'Java', 'C', 'C#'];\
 &nbsp; &nbsp; &nbsp; &nbsp; this.wantsToLearnMore = true;\
